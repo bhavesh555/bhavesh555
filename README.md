@@ -32,3 +32,8 @@
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=bhavesh555&show_icons=true&locale=en" alt="bhavesh555" /></p>
 <br>
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh555&" alt="bhavesh555" /></p>
+<br>
+<br>
+<p>Visitor's Count</p>
+
+<img align="Centre" alt="Visitor's Count" src="https://profile-counter.glitch.me/{bhavesh555}/count.svg">
